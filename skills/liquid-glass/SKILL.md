@@ -1,6 +1,17 @@
 ---
 name: liquid-glass
-description: Add liquid glass UI to a React app with Liquid Glass UI (bilalgursen/liquid-glass) — copy-paste components, one verb each: glass buttons (press), async action buttons whose arrow droplet melts into the body when pressed (merge), tabs whose selection travels as a lens (travel), badges with text flowing through the glass (flow), slide-to-confirm tracks with a glass thumb (drag), glass cards that hold content over moving colour (hold), button groups that share one body of glass (share), range sliders (slide), on/off switches (flip), checkboxes (tick) selects whose list stretches out of the button (stretch) and dropdown menus that pour out of a button or a whole button group (open). Use when the user asks for liquid glass, glassmorphism with real refraction, Apple-style glass, glass cards or widgets, glass sliders, switches / toggles or checkboxes, gooey/droplet buttons, slide to confirm / slide to pay / slide to unlock, or mentions Liquid Glass UI. Installs the real component files instead of re-implementing them.
+description: >-
+  Add liquid glass UI to a React app with Liquid Glass UI (bilalgursen/liquid-glass) — copy-paste
+  components, one verb each: glass buttons (press), async action buttons whose arrow droplet melts
+  into the body when pressed (merge), tabs whose selection travels as a lens (travel), badges with
+  text flowing through the glass (flow), slide-to-confirm tracks with a glass thumb (drag), glass
+  cards that hold content over moving colour (hold), button groups that share one body of glass
+  (share), range sliders (slide), on/off switches (flip), checkboxes (tick) selects whose list
+  stretches out of the button (stretch) and dropdown menus that pour out of a button or a whole
+  button group (open). Use when the user asks for liquid glass, glassmorphism with real refraction,
+  Apple-style glass, glass cards or widgets, glass sliders, switches / toggles or checkboxes,
+  gooey/droplet buttons, slide to confirm / slide to pay / slide to unlock, or mentions Liquid Glass
+  UI. Installs the real component files instead of re-implementing them.
 ---
 
 # Liquid Glass UI
